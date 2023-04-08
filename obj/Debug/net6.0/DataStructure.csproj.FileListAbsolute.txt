@@ -1,0 +1,15 @@
+D:\Documents\Programacion\Proyectos\C#\DataStructure\bin\Debug\net6.0\DataStructure.exe
+D:\Documents\Programacion\Proyectos\C#\DataStructure\bin\Debug\net6.0\DataStructure.deps.json
+D:\Documents\Programacion\Proyectos\C#\DataStructure\bin\Debug\net6.0\DataStructure.runtimeconfig.json
+D:\Documents\Programacion\Proyectos\C#\DataStructure\bin\Debug\net6.0\DataStructure.dll
+D:\Documents\Programacion\Proyectos\C#\DataStructure\bin\Debug\net6.0\DataStructure.pdb
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\DataStructure.csproj.AssemblyReference.cache
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\DataStructure.AssemblyInfoInputs.cache
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\DataStructure.AssemblyInfo.cs
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\DataStructure.csproj.CoreCompileInputs.cache
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\DataStructure.dll
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\refint\DataStructure.dll
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\DataStructure.pdb
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\DataStructure.genruntimeconfig.cache
+D:\Documents\Programacion\Proyectos\C#\DataStructure\obj\Debug\net6.0\ref\DataStructure.dll
