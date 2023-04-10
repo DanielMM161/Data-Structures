@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/sTai9sJIy0sTgAXe9PyFJChXUVPSvLkOVm4jvWC9HliWs+cRRHhiZbZNQmdykQhqIYOeI+VGnlc501ZpSGbIQ==",
+  "dgSpecHash": "vHeFQQvzbP85PekrUh3qKbMmGsN0nYwiHjfAhVDDXqq0RQzeWD0vZy/fyNo5sv+8qGh5iuGwBt0Y1oRfuB/Gcg==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructure\\DataStructure.csproj",
+  "projectFilePath": "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructures\\DataStructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

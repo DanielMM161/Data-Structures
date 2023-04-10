@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructure\\DataStructure.csproj": {}
+    "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructures\\DataStructure.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructure\\DataStructure.csproj": {
+    "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructures\\DataStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructure\\DataStructure.csproj",
+        "projectUniqueName": "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructures\\DataStructure.csproj",
         "projectName": "DataStructure",
-        "projectPath": "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructure\\DataStructure.csproj",
+        "projectPath": "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructures\\DataStructure.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructure\\obj\\",
+        "outputPath": "D:\\Documents\\Programacion\\Proyectos\\C#\\DataStructures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"

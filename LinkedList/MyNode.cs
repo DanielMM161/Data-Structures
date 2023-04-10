@@ -10,4 +10,8 @@ public class MyNode<T>
         value = v;
         next = n;
     }
+
+    public MyNode()
+    {}
+
 }
