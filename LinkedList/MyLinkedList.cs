@@ -83,11 +83,8 @@ public class MyLinkedList<T>
             } else {
                 var temp = head;
                 while(temp.next.next != null)               
-                    temp = temp.next;
-
-                var lastNode = temp.next;
-                temp.next = null;
-                lastNode = null;               
+                    temp = temp.next;                
+                temp.next = null;                         
             }
         }
         _count--;
@@ -138,7 +135,7 @@ public class MyLinkedList<T>
         _count = 0;
     }
 
-    public T? SearchEelement(T elementSearch)
+    public T SearchEelement(T elementSearch)
     {
         var temp = head;
         if (temp == null)
